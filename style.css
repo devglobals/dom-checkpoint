@@ -67,6 +67,12 @@ header {
     cursor: pointer;
 }
 
+.heart {
+    font-size: 2rem;
+    cursor: pointer;
+    background: none;
+}
+
 .cart {
     position: fixed;
     top: 0;
@@ -88,6 +94,15 @@ header {
     font-weight: 600;
     font-size: 1.5rem;
     margin-top: 2rem;
+}
+
+.btn {
+    color: grey;
+    background: transparent;
+    border: none;
+    font-size: 30px;
+    outline: none;
+    cursor: pointer;
 }
 
 .cart-box {
